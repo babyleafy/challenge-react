@@ -1,3 +1,5 @@
+import { Provider } from 'react-redux';
+import
 import logo from './logo.svg';
 import './App.css';
 
