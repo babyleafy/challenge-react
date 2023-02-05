@@ -1,7 +1,16 @@
 1. How many hours did you spend on this challenge?
+    5 hours
 
 2. Describe the features you have implemented.
+    I implemented the following features:
+    1) User selecting options - only one chosen at a time, hover effect, highlight selected option, user must go through all questions before submitting
+    2) Show results - user can't edit after submission, results are shown in separate component based on options selected
+    3) Retake quiz - allows user to retake the quiz
 
 3. Describe the difficulties you faced (if any) while working on the challenge and how you tackled them.
+    I had to think about how to store the answers in state and how to calculate the results.
+    I also had to think about styling the quiz and making it responsive. I tackled these challenges by using lots of
+    documentation and exploring different libraries.
 
 4. How much time can you spend each week working for DP Developers?
+    8 hours, but I'm quite flexible with time
